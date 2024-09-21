@@ -1,6 +1,6 @@
 # Port Scanner
 
-A simple Python-based port scanner using sockets to identify open ports on a target host. The scanner supports multithreading for faster results and provides real-time feedback during the scan.
+A Python-based port scanner using sockets to identify open ports on a target host (using multithreading)
 
 ## Usage
 
